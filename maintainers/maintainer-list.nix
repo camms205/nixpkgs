@@ -3446,6 +3446,12 @@
     githubId = 26444818;
     name = "Camille M.";
   };
+  camms205 = {
+    email = "camms205@gmail.com";
+    github = "camms205";
+    githubId = 57640151;
+    name = "Cameron Shearer";
+  };
   campadrenalin = {
     email = "campadrenalin@gmail.com";
     github = "campadrenalin";
