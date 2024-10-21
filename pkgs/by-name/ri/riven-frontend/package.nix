@@ -1,12 +1,12 @@
 {
   lib,
-  fetchFromGitHub,
   stdenv,
+  fetchFromGitHub,
   pnpm,
   nodejs,
-  makeWrapper,
-  node-gyp,
   python3,
+  node-gyp,
+  makeWrapper,
 }:
 
 stdenv.mkDerivation (finalAttrs: {
